@@ -1,0 +1,11 @@
+body {
+background-color: darkkhaki; 
+font: 1em sans-serif;
+font-size: medium;
+}
+
+h3, p, ol, ul {
+    color: darkgreen;
+    text-align: center;
+}
+
